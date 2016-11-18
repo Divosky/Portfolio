@@ -14,7 +14,7 @@ $(function() {
                     scrollTop: target.offset().top
                 }, 1000);
                 return false;
-            }
+            } 
         }
     });
 });
